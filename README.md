@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a React Spotify Clone
+- 🔭 I’m currently working on a React Disney+ Clone
 - 🌱 I’m currently learning React
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

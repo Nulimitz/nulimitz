@@ -16,7 +16,7 @@
 
 [Airbnb Clone](https://nextjs-airbnb-clone-lyart.vercel.app/)
 
-![Home Page](/screenshots/Airbnb-Clone.png "Home Page")
+![Home Page](/screenshots/Airbnb-Clone.PNG "Home Page")
 
 [Tesla Clone](https://affectionate-shirley-9321ea.netlify.app/)
 

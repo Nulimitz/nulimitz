@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Facebook 2.0 Clone
+- 🔭 I’m currently working on a Google Clone
 - 🌱 I’m currently learning React
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

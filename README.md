@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Amazxon Clone
+- 🔭 I’m currently working on a Amazon Clone
 - 🌱 I’m currently learning Next.js
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

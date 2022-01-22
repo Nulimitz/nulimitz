@@ -14,6 +14,10 @@
 
 ## My Portfolio
 
+[NextAuth Dashboard](https://dashboard-wine-one.vercel.app/)
+
+![Home Page](/screenshots/dashboard.PNG "Home Page")
+
 [Airbnb Clone](https://nextjs-airbnb-clone-lyart.vercel.app/)
 
 ![Home Page](/screenshots/Airbnb-Clone.PNG "Home Page")

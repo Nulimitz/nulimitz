@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Google Clone
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on a NextAuth & MongoDB Project
+- 🌱 I’m currently learning Next.js and MOngoDB
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -16,7 +16,7 @@
 
 [NextAuth Dashboard](https://dashboard-wine-one.vercel.app/)
 
-![Home Page](/screenshots/dashboard.PNG "Home Page")
+![Home Page](/screenshots/dashboard.png "Home Page")
 
 [Airbnb Clone](https://nextjs-airbnb-clone-lyart.vercel.app/)
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a NextAuth & MongoDB Project
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Next.js and MOngoDB
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,10 +13,6 @@
 -->
 
 ## My Portfolio
-
-[NextAuth Dashboard](https://dashboard-wine-one.vercel.app/)
-
-![Home Page](/screenshots/dashboard.png "Home Page")
 
 [Airbnb Clone](https://nextjs-airbnb-clone-lyart.vercel.app/)
 

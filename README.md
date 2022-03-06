@@ -14,7 +14,7 @@
 
 ## My Portfolio
 
-[Disney+ Clone](https://disneyplus-clone-puce.vercel.app/)
+[Disney Clone](https://disneyplus-clone-puce.vercel.app/)
 
 ![Home Page](/screenshots/disneyplus-clone.png "Home Page")
 

@@ -14,10 +14,6 @@
 
 ## My Portfolio
 
-[NextJS & Tailwind CSS](https://nextjs-mongodb-tailwindcss.vercel.app/)
-
-![Home Page](/screenshots/nextjs-tailwind.png "Home Page")
-
 [NextJS & Bootstrap 5](https://nextjs-bootstrap-indol.vercel.app/)
 
 ![Home Page](/screenshots/nextjs-auth.png "Home Page")

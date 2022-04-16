@@ -14,6 +14,10 @@
 
 ## My Portfolio
 
+[NextJS & Prisma](https://nextjs-prisma-bootstrap.vercel.app/)
+
+![Home Page](/screenshots/nextjs-prisma.png "Home Page")
+
 [NextJS & Bootstrap 5](https://nextjs-bootstrap-indol.vercel.app/)
 
 ![Home Page](/screenshots/nextjs-auth.png "Home Page")

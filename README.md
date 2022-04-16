@@ -18,10 +18,6 @@
 
 ![Home Page](/screenshots/nextjs-auth.png "Home Page")
 
-[NextJS & Bootstrap 5](https://nextjs-bootstrap-indol.vercel.app/)
-
-![Home Page](/screenshots/nextjs-auth.png "Home Page")
-
 [Disney Clone](https://disneyplus-clone-puce.vercel.app/)
 
 ![Home Page](/screenshots/disneyplus-clone.png "Home Page")

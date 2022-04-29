@@ -14,7 +14,7 @@
 
 ## My Portfolio
 
-[NextJS & MongoDB](https://nextjs-mongodb-bootstrap.vercel.app/)
+[NextJS & Prisma](https://nextjs-prisma-bootstrap.vercel.app/)
 
 ![Home Page](/screenshots/nextjs-auth.png "Home Page")
 
